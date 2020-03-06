@@ -1,4 +1,4 @@
-# this program will animate a zig zag pattern 
+# this program will animate a zigzag pattern 
 
 import time, sys
 indent = 0 # how many spaces to indent 
