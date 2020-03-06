@@ -12,7 +12,7 @@ try:
 
     if indentIncreasing: 
         indent = indent + 1 # increase the number of spaces 
-        if dent == 20:
+        if indent == 20:
             indentIncreasing = False # change direction
     
     else:
